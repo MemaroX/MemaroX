@@ -7,7 +7,7 @@ Hi, I'm **Maher Gomaa Ismaeel Sayed**, a final-year Computer Science Engineering
 - 💻 **Skills**: Python, C++, Java, HTML, Arduino, AI, Cybersecurity, Embedded Systems
 - 📜 **Certifications**: Google IT Automation with Python, Dartmouth C Programming
 - 🌟 **Vision**: Creating impactful tech like JARVIS (AI assistant) and advancing cybersecurity solutions
-- 📈 **Contributions**: 200+ in the last year, actively developing and collaborating
+- 📈 **Contributions**: 130+ in the last year, actively developing and collaborating
 
 ## Featured Projects
 ### [Mema-OS](https://github.com/MemaroX/Mema-OS) (C++, X stars)
