@@ -10,15 +10,15 @@ Hi, I'm **Maher Gomaa Ismaeel Sayed**, a final-year Computer Science Engineering
 - 📈 **Contributions**: 200+ in the last year, actively developing and collaborating
 
 ## Featured Projects
-### [Mema-OS](https://github.com/MemaroX/Mema-OS) (C++, 15 stars)
+### [Mema-OS](https://github.com/MemaroX/Mema-OS) (C++, X stars)
 A custom operating system project exploring low-level systems programming. Features include kernel development and task scheduling.  
 *Why it’s cool*: Pushes the boundaries of embedded systems, aligning with my goal to innovate like Stark.
 
-### [CPPCompiler](https://github.com/MemaroX/CPPCompiler) (Python, 10 stars)
+### [CPPCompiler](https://github.com/MemaroX/CPPCompiler) (Python, X stars)
 A basic C++ compiler written in Python, demonstrating lexical analysis and code generation.  
 *Why it’s cool*: Combines my love for compilers and Python automation, showcasing analytical depth.
 
-### [Store](https://github.com/MemaroX/Store) (HTML, 5 stars)
+### [Store](https://github.com/MemaroX/Store) (HTML, X stars)
 A simple e-commerce website built with HTML, focusing on clean design and user experience.  
 *Why it’s cool*: My first step into web development, with plans to integrate backend features.
 
@@ -32,9 +32,8 @@ A utility to expand shortened URLs, enhancing web security and usability.
 - **Open-Source Contributions**: Actively contributing to projects to learn and give back to the community.
 
 ## Get in Touch
-- 📧 **Email**: [Your email, e.g., maher.gomaa@example.com]
-- 🌐 **LinkedIn**: [Your LinkedIn, e.g., linkedin.com/in/mahergomaa]
-- 💬 **Discord**: MemaroX#1234 (or your preferred contact)
+- 📧 **Email**: [maher.gomaaismaeel@outlook.com]
+- 🌐 **LinkedIn**: [www.linkedin.com/in/maher-gomaa-ismaeel-sayed]
 - Let’s collaborate on innovative projects or discuss tech, AI, or cybersecurity!
 
 ## Fun Facts
