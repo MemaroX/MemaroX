@@ -43,8 +43,9 @@ More projects → [github.com/MemaroX](https://github.com/MemaroX)
 - **Open-Source Contributions**: Actively contributing to projects to learn and give back to the community.
 
 ## 📈 GitHub Stats
-![MemaroX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemaroX&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MemaroX&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=MemaroX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MemaroX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MemaroX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🤝 Let’s Connect
