@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Maher Gomaa Ismaeel Sayed (MemaroX) 🚀
 
-**B.Sc. in Computer Science & Engineering @ Menoufia University, Egypt (Graduated 2025)**  
+**B.Sc. in Computer Science & Engineering @ FEE (Faculty of Electronic Engineering) Menoufia University, Egypt (Graduated 2025)**  
 Turning caffeine into code and ideas into reality – one neural network at a time.
 
 ## About Me
